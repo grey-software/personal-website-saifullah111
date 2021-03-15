@@ -2,9 +2,9 @@
   <div>
     <NavBar/>
     <Nuxt />
-    <Content />
-    <Footer/>
+    
   </div>
+  
 </template>
 
 <style>

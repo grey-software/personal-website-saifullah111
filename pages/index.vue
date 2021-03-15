@@ -1,5 +1,11 @@
 <template>
-  <Hero/>
+  <div>
+    <About />
+    <Blog />
+    <Education /> 
+    <Contact />
+    <Footer />
+  </div>
 </template>
 
 <script>

@@ -30,6 +30,12 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
+
+    // Simple usage
+    '@nuxtjs/vuetify',
+  
+    // With options
+    ['@nuxtjs/vuetify', { /* module options */ }]
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -39,6 +45,18 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
   ],
+
+  // {
+  //   buildModules: [
+  //     // Simple usage
+  //     '@nuxtjs/vuetify',
+  
+  //     // With options
+  //     ['@nuxtjs/vuetify', { /* module options */ }]
+  //   ]
+  // }  
+
+
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
