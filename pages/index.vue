@@ -1,8 +1,11 @@
 <template>
   <div>
+    <br/>
     <About />
-    <Blog />
+    <br/>
+    <Skills />
     <Education /> 
+    <Blog />
     <Contact />
     <Footer />
   </div>

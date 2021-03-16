@@ -2,7 +2,7 @@
   <div>
     <NavBar/>
     <Nuxt />
-    
+    <DarkMode />
   </div>
   
 </template>
