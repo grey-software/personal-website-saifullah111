@@ -1,10 +1,8 @@
 <template>
   <div>
-    <br/>
     <About />
-    <br/>
-    <Skills />
     <Education /> 
+    <Skills />
     <Blog />
     <Contact />
     <Footer />

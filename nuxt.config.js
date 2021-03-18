@@ -12,11 +12,15 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+    script: [{
+      hid:'iconify', src: "https://code.iconify.design/1/1.0.7/iconify.min.js", defer:true },
+ 
+ ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: [
+  css: ['@/assets/main.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -29,13 +33,10 @@ export default {
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss',
-
-    // Simple usage
-    '@nuxtjs/vuetify',
-  
+    '@nuxtjs/tailwindcss',  
     // With options
-    ['@nuxtjs/vuetify', { /* module options */ }]
+    ['@nuxtjs/vuetify', { /* module options */ }],
+    ['@nuxtjs/color-mode'],
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -71,4 +72,5 @@ export default {
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
+ 
 }
