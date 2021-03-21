@@ -1,6 +1,5 @@
 <template>
 <section class="text-white body-font bg-gray-900" id="blog">
-<section class="text-white body-font bg-gray-900 border-light-blue-500 ..." id="skills">
   <div class="container px-5 py-24 mx-auto">
     <br/>
      <h1 class="mb-20 sm:text-3xl text-2xl font-medium text-center title-font text-white body-font bg-gray-900 mb-4">Projects</h1>
