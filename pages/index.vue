@@ -2,9 +2,11 @@
   <div>
     <About />
     <Education /> 
+    <Eaducation />
     <Skills />
-    <Blog />
+    
     <Contact />
+    <Blog />
     <Footer />
   </div>
 </template>
