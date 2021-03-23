@@ -4,6 +4,7 @@ export default {
   generate: {
     fallback: true
   },
+  ssr: false,
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'Saifullah Saif',
