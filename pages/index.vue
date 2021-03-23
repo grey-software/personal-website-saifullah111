@@ -1,8 +1,10 @@
 <template>
   <div>
     <About />
-    <Blog />
     <Education /> 
+    <Eaducation />
+    <Skills />
+    
     <Contact />
     <Footer />
   </div>
