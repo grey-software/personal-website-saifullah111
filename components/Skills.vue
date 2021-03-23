@@ -2,7 +2,8 @@
 <section class="text-white body-font bg-gray-900 border-light-blue-500 ..." id="skills">
   <div class="container px-5 py-24 mx-auto">
     <br/>
-     <h1 class="mb-20 sm:text-3xl text-2xl font-medium text-center title-font text-white body-font bg-gray-900 mb-4">Skills</h1>
+     <h1 class="mb-1 sm:text-3xl text-2xl font-medium text-center title-font text-white body-font bg-gray-900 mb-4">Skills</h1>
+     <h2 class="mb-10 sm:text-1xl text-1xl font-medium text-center title-font text-white ">Following are the technical skill:</h2>
     <div class="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">
       <div class="p-2 sm:w-1/2 w-full">
         <div class="text-white body-font bg-gray-900 bg-gray-100 rounded flex p-4 h-full items-center">

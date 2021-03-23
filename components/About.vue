@@ -4,7 +4,8 @@
     <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
       <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium ">Hi!
         <br class="hidden lg:inline-block">I'm Saifullah Saif</h1>
-      
+        <h2 class="title-font sm:text-2xl text-3xl mb-4 font-sans italic ">Data Science| Machine Learning| Managment</h2>
+        <div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
       <p class="mb-8 leading-relaxed">
         My mission is to provide my services in an ambitious and challenging research and
         engineering environment, where accomplishment counts. As well as
