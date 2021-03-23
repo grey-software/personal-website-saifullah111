@@ -1,7 +1,7 @@
 <template>
-    <section>
+    <section class="text-red-100 body-font bg-gray-900" id="blog">
     <div>
-      I am Footer
+      This page are site is still in development phase
     </div>
   </section>  
 </template>

@@ -6,7 +6,6 @@
     <Skills />
     
     <Contact />
-    <Blog />
     <Footer />
   </div>
 </template>
