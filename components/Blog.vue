@@ -1,16 +1,10 @@
 <template>
   <section>
     <div>
-      I am nav bar
+      I am Blog page
     </div>
-  </section>  
+  </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
 
 <style>
 
