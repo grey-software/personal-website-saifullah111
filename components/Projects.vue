@@ -1,6 +1,6 @@
 
 <template>
-<section class="w-1 container text-gray-600 body-font overflow-hidden items-center text-center">
+<section class=" text-gray-600 body-font bg-gray-900 overflow-hidden items-center text-center">
   <div class="container px-5 py-24 mx-auto">
     <h1 class="mb-10 sm:text-3xl text-2xl font-medium text-center title-font text-white body-font bg-gray-900 mb-4">Projects</h1> 
     <div class="-my-8 divide-y-2 divide-gray-100">
