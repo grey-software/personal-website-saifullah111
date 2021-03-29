@@ -46,7 +46,7 @@
       </div>
     </div>
    </div>
-   <Projects/>
+
 </section>
 </template>
 

@@ -4,7 +4,7 @@
     <Education /> 
     <Eaducation />
     <Skills />
-    
+      <Projects/>
     <Contact />
     <Footer />
   </div>
